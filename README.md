@@ -24,7 +24,8 @@ Whether you're a Python beginner exploring basic programming concepts or a seaso
 
 1. A prompt will appear asking you to select the turtle you think will win the race.
 2. Type your chosen color (e.g., Red, Orange, Yellow, etc.) and press Enter.
-![Turtle Race Screenshot](images/Turtle Race Screenshot.png)
+
+![Turtle Race Screenshot](images/Turtle-Race-Screenshot.png)
 
 **Watch the Race:**
 
